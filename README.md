@@ -1,1 +1,1 @@
-# project-using-amazon-q-customizations
+# My Java Application
